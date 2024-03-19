@@ -14,7 +14,7 @@ Evaluation Metrics: ROC curve (Receiver Operating Characteristic curve) and AUC 
 
 Specific Test VI. SSL on Real Dataset
 
-Weights: [dino_model](https://drive.google.com/file/d/1NEniPHl9Q-89L5E6NLm2mOWm1LPAzBZX/view?usp=sharing)
+Weights: [dino_model.pth](https://drive.google.com/file/d/1NEniPHl9Q-89L5E6NLm2mOWm1LPAzBZX/view?usp=sharing)
 
 Task: Build a Self-Supervised Learning model for classifying the images into lenses using PyTorch or Keras. Pick the most appropriate approach and discuss your strategy. 
 
